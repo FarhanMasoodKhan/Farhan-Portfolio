@@ -2,4 +2,5 @@
 
 Front-end developer | MERN stack | A.I | Data Science
 
-![Portfolio](https://user-images.githubusercontent.com/58627451/177300161-023b7b69-2557-4bd5-a893-a00db1365a83.png)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/58627451/203248421-9e29db56-55cd-45f7-8082-aa82598ae48f.png)
