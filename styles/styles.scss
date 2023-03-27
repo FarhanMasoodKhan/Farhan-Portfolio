@@ -504,9 +504,12 @@ section {
 //Contact section
 .contact-content-con {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding-top: 3.5rem;
     .left-contact {
-        flex: 2;
+        flex: 1;
         h4 {
             margin-top: 1rem;
             font-size: 2rem;

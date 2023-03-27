@@ -591,6 +591,9 @@ section {
 
 .contact-content-con {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding-top: 3.5rem;
 }
 
@@ -634,6 +637,8 @@ section {
 
 .contact-content-con .left-contact .contact-icon {
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 2rem;
 }
 
