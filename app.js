@@ -11,3 +11,13 @@
         document.body.classList.toggle("light-mode");
     })
 })();
+
+
+// typo
+
+var typed = new Typed (".typing", {
+    strings: ["Data Scientist", "ML Engineer", "Data Analyst", "UI Designer"],
+    typeSpeed: 500,
+    backSpeed: 300,
+    loop: true
+});
